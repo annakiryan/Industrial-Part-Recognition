@@ -1,0 +1,10 @@
+ezdxf==1.4.3
+fonttools==4.62.1
+joblib==1.5.3
+numpy==2.4.4
+opencv-python==4.13.0.92
+pyparsing==3.3.2
+scikit-learn==1.8.0
+scipy==1.17.1
+threadpoolctl==3.6.0
+typing_extensions==4.15.0

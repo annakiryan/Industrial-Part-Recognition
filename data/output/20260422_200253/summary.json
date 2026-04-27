@@ -1,0 +1,70 @@
+{
+  "num_objects_found": 4,
+  "counts_by_label": {
+    "part_4": 1,
+    "part_6": 1,
+    "part_7": 2
+  },
+  "objects": [
+    {
+      "object_id": 1,
+      "bbox_xyxy": [
+        79,
+        165,
+        222,
+        277
+      ],
+      "component_area_px": 10896,
+      "predicted_label": "part_4",
+      "best_dwg_path": "templates\\part_4\\part.dwg",
+      "candidate_labels": [
+        "part_4"
+      ]
+    },
+    {
+      "object_id": 2,
+      "bbox_xyxy": [
+        106,
+        481,
+        210,
+        577
+      ],
+      "component_area_px": 3905,
+      "predicted_label": "part_7",
+      "best_dwg_path": "templates\\part_7\\part.dwg",
+      "candidate_labels": [
+        "part_7"
+      ]
+    },
+    {
+      "object_id": 3,
+      "bbox_xyxy": [
+        250,
+        300,
+        350,
+        386
+      ],
+      "component_area_px": 3209,
+      "predicted_label": "part_7",
+      "best_dwg_path": "templates\\part_7\\part.dwg",
+      "candidate_labels": [
+        "part_7"
+      ]
+    },
+    {
+      "object_id": 4,
+      "bbox_xyxy": [
+        347,
+        435,
+        441,
+        511
+      ],
+      "component_area_px": 1167,
+      "predicted_label": "part_6",
+      "best_dwg_path": "templates\\part_6\\part.dwg",
+      "candidate_labels": [
+        "part_6"
+      ]
+    }
+  ]
+}

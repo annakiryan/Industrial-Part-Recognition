@@ -1,0 +1,44 @@
+{
+  "object_id": 1,
+  "bbox_xyxy": [
+    561,
+    1193,
+    1225,
+    1702
+  ],
+  "component_area_px": 291903,
+  "predicted_label": "part_4",
+  "best_dwg_path": "templates\\part_4\\part.dwg",
+  "candidate_labels": [
+    "part_4"
+  ],
+  "candidates": [
+    {
+      "label": "part_4",
+      "distance": 3.435486164636939,
+      "dwg_path": "templates\\part_4\\part.dwg"
+    }
+  ],
+  "top_predictions": [
+    "part_4",
+    "part_8189839",
+    "part_7"
+  ],
+  "top_matches": [
+    {
+      "label": "part_4",
+      "distance": 3.435486164636939,
+      "dwg_path": "templates\\part_4\\part.dwg"
+    },
+    {
+      "label": "part_8189839",
+      "distance": 6.892239104486291,
+      "dwg_path": "templates\\part_8189839\\part.dwg"
+    },
+    {
+      "label": "part_7",
+      "distance": 7.539030136327394,
+      "dwg_path": "templates\\part_7\\part.dwg"
+    }
+  ]
+}

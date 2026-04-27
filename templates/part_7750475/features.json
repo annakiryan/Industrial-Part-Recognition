@@ -1,0 +1,100 @@
+{
+  "camera_id": "cam_01",
+  "timestamp": "2026-04-23T09:55:15Z",
+  "geometry": {
+    "dimensions": {
+      "width_mm": 600.0,
+      "height_mm": 32.0,
+      "bbox_ratio": 19.195312,
+      "area_mm2": 18754.5788,
+      "perimeter_mm": 1262.5153,
+      "extent": 1.0,
+      "mm_per_px": 0.12210012
+    },
+    "topology": {
+      "holes_count": 0,
+      "holes_area_total_mm2": 0.0,
+      "holes_area_ratio": 0.0,
+      "max_hole_diameter_mm": 0.0,
+      "min_hole_diameter_mm": 0.0,
+      "mean_hole_diameter_mm": 0.0,
+      "std_hole_diameter_mm": 0.0,
+      "avg_dist_to_center_mm": 0.0,
+      "min_hole_dist_to_center_mm": 0.0,
+      "max_hole_dist_to_center_mm": 0.0,
+      "std_hole_dist_to_center_mm": 0.0,
+      "hole_diameters_sorted_mm": [],
+      "hole_distances_sorted_mm": []
+    },
+    "morphology": {
+      "compactness": 84.989634,
+      "solidity": 1.0,
+      "circularity": 0.147858,
+      "convexity": 1.0,
+      "eccentricity": 0.0,
+      "hu_moments": [
+        -0.2051910188,
+        -0.4056673276,
+        27.090135622,
+        26.675162274,
+        0.0,
+        -26.5070907165,
+        0.0
+      ],
+      "contour_signature": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fourier_descriptors": [
+        1.0,
+        0.0,
+        1.109918,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "context": {
+    "material": "steel",
+    "thickness_mm": 5.0
+  }
+}

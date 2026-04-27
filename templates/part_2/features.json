@@ -1,0 +1,104 @@
+{
+  "camera_id": "cam_01",
+  "timestamp": "2026-04-23T09:55:48Z",
+  "geometry": {
+    "dimensions": {
+      "width_mm": 106.4269,
+      "height_mm": 21.8054,
+      "bbox_ratio": 4.904192,
+      "area_mm2": 1315.4094,
+      "perimeter_mm": 257.5661,
+      "extent": 0.574104,
+      "mm_per_px": 0.02165789
+    },
+    "topology": {
+      "holes_count": 1,
+      "holes_area_total_mm2": 10.5366,
+      "holes_area_ratio": 0.007946,
+      "max_hole_diameter_mm": 3.6627,
+      "min_hole_diameter_mm": 3.6627,
+      "mean_hole_diameter_mm": 3.6627,
+      "std_hole_diameter_mm": 0.0,
+      "avg_dist_to_center_mm": 37.8818,
+      "min_hole_dist_to_center_mm": 37.8818,
+      "max_hole_dist_to_center_mm": 37.8818,
+      "std_hole_dist_to_center_mm": 0.0,
+      "hole_diameters_sorted_mm": [
+        3.6627
+      ],
+      "hole_distances_sorted_mm": [
+        37.8818
+      ]
+    },
+    "morphology": {
+      "compactness": 50.433192,
+      "solidity": 0.73279,
+      "circularity": 0.251165,
+      "convexity": 0.914501,
+      "eccentricity": 0.0,
+      "hu_moments": [
+        0.2489457213,
+        0.5649600548,
+        1.2495199488,
+        1.3102337667,
+        2.5901470064,
+        1.5995999432,
+        4.4780632872
+      ],
+      "contour_signature": [
+        0.647209,
+        0.649881,
+        0.620028,
+        0.620028,
+        0.620028,
+        0.620028,
+        0.140081,
+        0.140081,
+        0.140081,
+        0.140081,
+        0.110253,
+        0.110253,
+        0.32818,
+        0.32818,
+        0.32818,
+        0.32818,
+        0.32818,
+        1.0,
+        1.0,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.251833,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608,
+        0.61608
+      ],
+      "fourier_descriptors": [
+        1.0,
+        1.719158,
+        1.819329,
+        1.483855,
+        0.979111,
+        0.776953,
+        0.887371,
+        0.893767,
+        0.697769,
+        0.433247
+      ]
+    }
+  },
+  "context": {
+    "material": "steel",
+    "thickness_mm": 5.0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "features": [
+    {
+      "name": "width_mm",
+      "path": ["geometry", "dimensions", "width_mm"],
+      "weight": 2.0
+    },
+    {
+      "name": "height_mm",
+      "path": ["geometry", "dimensions", "height_mm"],
+      "weight": 2.0
+    },
+    {
+      "name": "bbox_ratio",
+      "path": ["geometry", "dimensions", "bbox_ratio"],
+      "weight": 1.5
+    },
+    {
+      "name": "area_mm2",
+      "path": ["geometry", "dimensions", "area_mm2"],
+      "weight": 2.0
+    },
+    {
+      "name": "perimeter_mm",
+      "path": ["geometry", "dimensions", "perimeter_mm"],
+      "weight": 2.0
+    },
+    {
+      "name": "extent",
+      "path": ["geometry", "dimensions", "extent"],
+      "weight": 1.5
+    },
+    {
+      "name": "holes_count",
+      "path": ["geometry", "topology", "holes_count"],
+      "weight": 3.0
+    },
+    {
+      "name": "holes_area_total_mm2",
+      "path": ["geometry", "topology", "holes_area_total_mm2"],
+      "weight": 2.5
+    },
+    {
+      "name": "holes_area_ratio",
+      "path": ["geometry", "topology", "holes_area_ratio"],
+      "weight": 2.0
+    },
+    {
+      "name": "max_hole_diameter_mm",
+      "path": ["geometry", "topology", "max_hole_diameter_mm"],
+      "weight": 2.0
+    },
+    {
+      "name": "min_hole_diameter_mm",
+      "path": ["geometry", "topology", "min_hole_diameter_mm"],
+      "weight": 1.5
+    },
+    {
+      "name": "mean_hole_diameter_mm",
+      "path": ["geometry", "topology", "mean_hole_diameter_mm"],
+      "weight": 1.8
+    },
+    {
+      "name": "std_hole_diameter_mm",
+      "path": ["geometry", "topology", "std_hole_diameter_mm"],
+      "weight": 1.2
+    },
+    {
+      "name": "avg_dist_to_center_mm",
+      "path": ["geometry", "topology", "avg_dist_to_center_mm"],
+      "weight": 2.0
+    },
+    {
+      "name": "min_hole_dist_to_center_mm",
+      "path": ["geometry", "topology", "min_hole_dist_to_center_mm"],
+      "weight": 1.5
+    },
+    {
+      "name": "max_hole_dist_to_center_mm",
+      "path": ["geometry", "topology", "max_hole_dist_to_center_mm"],
+      "weight": 1.5
+    },
+    {
+      "name": "std_hole_dist_to_center_mm",
+      "path": ["geometry", "topology", "std_hole_dist_to_center_mm"],
+      "weight": 1.2
+    },
+    {
+      "name": "compactness",
+      "path": ["geometry", "morphology", "compactness"],
+      "weight": 1.0
+    },
+    {
+      "name": "solidity",
+      "path": ["geometry", "morphology", "solidity"],
+      "weight": 1.0
+    },
+    {
+      "name": "circularity",
+      "path": ["geometry", "morphology", "circularity"],
+      "weight": 1.0
+    },
+    {
+      "name": "convexity",
+      "path": ["geometry", "morphology", "convexity"],
+      "weight": 1.2
+    },
+    {
+      "name": "eccentricity",
+      "path": ["geometry", "morphology", "eccentricity"],
+      "weight": 1.2
+    },
+    {
+      "name": "hu1",
+      "path": ["geometry", "morphology", "hu_moments", 0],
+      "weight": 0.7
+    },
+    {
+      "name": "hu2",
+      "path": ["geometry", "morphology", "hu_moments", 1],
+      "weight": 0.7
+    },
+    {
+      "name": "hu3",
+      "path": ["geometry", "morphology", "hu_moments", 2],
+      "weight": 0.6
+    },
+    {
+      "name": "hu4",
+      "path": ["geometry", "morphology", "hu_moments", 3],
+      "weight": 0.6
+    },
+    {
+      "name": "hu5",
+      "path": ["geometry", "morphology", "hu_moments", 4],
+      "weight": 0.25
+    },
+    {
+      "name": "hu6",
+      "path": ["geometry", "morphology", "hu_moments", 5],
+      "weight": 0.25
+    },
+    {
+      "name": "hu7",
+      "path": ["geometry", "morphology", "hu_moments", 6],
+      "weight": 0.25
+    }
+  ]
+}
